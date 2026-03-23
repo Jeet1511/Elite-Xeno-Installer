@@ -104,5 +104,6 @@ Licensed under **Apache License 2.0**. See `LICENSE`.
 ## 👨‍💻 Maintainer
 **Jeet**
 
-- GitHub: https://github.com/Jeet1511
-- Repository: https://github.com/Jeet1511/Elite-Xeno-Installer
+<a href="mailto:jeetmondal1685@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/_echo.del.alma_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/Jeet1511"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
