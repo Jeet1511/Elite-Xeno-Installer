@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%93%A5%20Download%20APK-Google%20Drive-17B6D8?style=for-the-badge" alt="Download APK" />
   </a>
   <a href="https://github.com/Jeet1511/Elite-Xeno-Installer/stargazers">
-    <img src="https://img.shields.io/github/stars/Jeet1511/Elite-Xeno-Installer?style=for-the-badge&color=0ea5e9" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Jeet1511&style=flat-square&color=00A8FF&label=Profile+Views"/>
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-Apache--2.0-0b1220?style=for-the-badge" alt="License" />
