@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_installer_orb">
+    <target
+        android:name="ringGroup"
+        android:animation="@animator/orb_rotate" />
+    <target
+        android:name="glow"
+        android:animation="@animator/orb_glow" />
+</animated-vector>

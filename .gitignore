@@ -1,0 +1,32 @@
+# Android / Gradle
+.gradle/
+**/.gradle/
+**/build/
+
+# Local machine config
+**/local.properties
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / signing material
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+*.der
+
+# Payload artifacts (sensitive)
+assets/data.bin

@@ -1,0 +1,51 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.5.2'
+    }
+}
+
+apply plugin: 'com.android.application'
+
+repositories {
+    google()
+    mavenCentral()
+}
+
+android {
+    namespace "com.elitexeno.installer"
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.elitexeno.installer"
+        minSdkVersion 29
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['com']
+            res.srcDirs = ['../res']
+            assets.srcDirs = ['../assets']
+        }
+    }
+}
+
+dependencies {
+}
