@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,20:071a2f,45:0a2a46,75:0f4d74,100:22d3ee&text=ELITE%20XENO%20INSTALLER&fontColor=e2f3ff&fontSize=44&fontAlignY=38&desc=Premium%20Secure%20Android%20Installer%20Experience&descAlignY=58" alt="Elite Xeno Installer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,20:071a2f,45:0a2a46,75:0f4d74,100:22d3ee&text=ELITE%20XENO%20INSTALLER&fontColor=e2f3ff&fontSize=44&fontAlignY=38&desc=Secure%20Android%20Installer%20Experience&descAlignY=58" alt="Elite Xeno Installer Banner" />
 </p>
 
 <p align="center">
