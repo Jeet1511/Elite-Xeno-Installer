@@ -25,6 +25,14 @@
   <img src="https://img.shields.io/badge/Security-Hardened-0f172a?style=flat-square" alt="Security Hardened" />
 </p>
 
+<br/>
+
+<a href="https://github.com/Jeet1511"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:jeetmondal1685@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://www.instagram.com/_echo.del.alma_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><!-- credit:github.com/Jeet1511 -->
+
+<br/>
+
 ---
 
 ## ⚡ Live Highlights
